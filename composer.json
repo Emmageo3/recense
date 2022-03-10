@@ -1,0 +1,17 @@
+{
+    "name": "emma/recense",
+    "description": "gestion des entreprises",
+    "autoload": {
+        "psr-4": {
+            "recense\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "emmageo3",
+            "email": "kanfanyemma22@gmail.com"
+        }
+    ],
+    "require-dev": {
+    }
+}
